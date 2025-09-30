@@ -98,9 +98,36 @@ I have developed a very simple PDF editor using React with JS as frontend and ba
 - `GET /api/Export/{format}` - Export PDF
 - `GET /api/ImagesExport` - Export as images
 
+  
+### Edit Options Issues
+
+#### 1. **Text Markup Functionality**
+- **Text Selection Limitation**: The current implementation requires exact text matching, which may not work with:
+  - Text with special characters or formatting
+  - Text spanning multiple lines
+  - Text with different font sizes or styles
+- **Coordinate System Mismatch**: Screen coordinates from frontend may not accurately map to PDF coordinates
+
+#### 2. **Text Annotation Positioning**
+- **Coordinate Conversion Issues**: 
+  - Screen-to-PDF coordinate conversion may be inaccurate
+  - Different PDF scaling factors not properly handled
+  - Iframe dimensions may not match actual PDF display size
+- **Annotation Placement**: Annotations may appear in wrong positions due to:
+  - Incorrect Y-axis inversion calculations
+  - Missing annotation height adjustments
+  - Scale factor miscalculations
+
+#### 3. **PDF Processing**
+- **Syncfusion License**: Trial version limitations apply (watermarks, page limits)
+- **PDF Format**: Assumes standard PDF 1.7+ compatibility
+
+
 ## License
 
 This project uses commercial library (Syncfusion) that require proper licensing for production use.
+
+
 
 
 
