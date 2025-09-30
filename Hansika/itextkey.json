@@ -1,0 +1,163 @@
+[
+  {
+    "product": "itext-core",
+    "licensee": {
+      "company": "Individual",
+      "name": "Hansika Duviduni",
+      "email": "hansikaduviduni@gmail.com"
+    },
+    "key": "b7334faba432a438c146ef307336717e42e5a8469579b5e2be10b62375faf872",
+    "creationDate": "2025-09-30",
+    "expirationDate": "2025-10-31",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "R9sLRBagaz+UOWRdez0e0Pv8LZ9mUuoduu3ONUZ6s5qjDPhhuD2aqOo/frJlOdoJuP0YXzkdQeyH9aCMxl7wcZYjqX+eNJVnpwJ3R1+rkWxf4GOCU7wnYRbXt3B7tBmWQxV2/BzSYag5HiNIDpS6iTsvKkpr8D9d0wUEZ8Nqw4eO4riE+h39kOqGAi7VSW71BklAd7aqHVETyNlmdeOPaj9tWGVGCIATHLk7jQJ7IYiwOcfd6uiWD+K4FXORV09UdIXftlpXsIA4ceqw1vMhVcW6CZoT2eP/9T1WsMVLhJkk7ULZKXmv3ZxEYPErcZ7JA69/9cFJ/ILf9AgV2iS4WPWmLK1ZBNFtOD+3dmbRiOG1nC6hUDwLgi3IkkRPz4Wheoof3Iajg8WHkUDAGY6urRt6osXIzv+rN2CdderAN1PwOrSSb6LQxbzaUiGXtNfb9v5p8J9omQA7PQItGy73tTGtZS9bb0t9T8lLRhhPkPGITe5Kp+GARl1y7+F2b+XK9WSExFME27EkQSwgvUxpwm17IKXe2uSChRYczsXMuQC0BU4Ksks0SPipgwQEyUT3RocNB5bJAIyM0cc267+75xf6WterpMmzIoj+rTwJP8FIlsIWETgwBh/i7/g5e/LjC3NVuE07U8Fs+vfjFLxk9LC4KUOOvgVlXlfLIOOchbI="
+  },
+  {
+    "product": "pdfXfa",
+    "licensee": {
+      "company": "Individual",
+      "name": "Hansika Duviduni",
+      "email": "hansikaduviduni@gmail.com"
+    },
+    "key": "b7334faba432a438c146ef307336717e42e5a8469579b5e2be10b62375faf872",
+    "creationDate": "2025-09-30",
+    "expirationDate": "2025-10-31",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "M1hHoRR/3tFhZKYkRTiW3Gqvc6dmGv8q9SE6c9wn93pTirs6Msxnj89oKXC39Wlf+Yr4KlqUWi461dVzH+yv3vhtJINP2L3RAvPWhmOAaYnHNJ38PsLQQYg6e7MvuKzxKNqQO6FbKjVv3JgVJvaQZMO96NWcIkuogb7EEgGULedoTHScK2S5/nrdG1zDnvG0kJRuJCdOMS0ggtMoHMoo/yT+EqYkaX4TKooK7Ox+MLeoEeYPom0SWB0fPeHCrd9wC4iTf78AWISUbLhdtbQAeNGIwDmVrkeLNNg1p2iUDoB8X5MUOSSrqb4IbGbi/1UmzrcrdY5WQ14ge+hkUW1b8wKHw8ahimdk1jwy6r/Vo1ariZTHrVg6trC6U1YsUp9KFv5ft9I8qVUH7l+oud/sPRZRazOqGbVDi6NG/qpUCg9hGuU3adM7nq6xmppx8UVMCjRU5EIKNLN2BH10AwQzaiOt98S9zxltC2WOOxuyU61xMfDgr2EIF/kz8K5lleh3MW9ND7oxsN6IEt6vUD8kuaAk4lTMQTJu/wI3rJGgOWlYa/Yaar175Mz2qvZY5MvEPFzICPsbBDo65ai6s447Xrnvn091dxizTWzXwe6ndbXe3fj/3eB4t4KbDKIRqJIvL+Cs+Wu8xFfrVEgLRebGY7YV3dCeNGOv+1P7WyWH5nM="
+  },
+  {
+    "product": "pdfSweep",
+    "licensee": {
+      "company": "Individual",
+      "name": "Hansika Duviduni",
+      "email": "hansikaduviduni@gmail.com"
+    },
+    "key": "b7334faba432a438c146ef307336717e42e5a8469579b5e2be10b62375faf872",
+    "creationDate": "2025-09-30",
+    "expirationDate": "2025-10-31",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "Cyl2/L/i517K9J1a/98GBckBLENMoM7BrpbZy3h8YaJ3jPLFTf6rpDGmRipH/ZDCMsUzALdoaVjPiDQplvT/kWSTIu9GspHRR9R9PPPU194hOzeLnz6hZ3pLocuvdQ8TFA9dyVwcIAmUjBzG06vyAiiTGZirSFsfcjhSUQbIid2Ye7ROQUUutGyvnSFURFJsEU5F3GJWyvOBCvictvgG2GZf6XCajWJzXuJzST9b0vOYorAYtaZ4KsDsM/MU9E+Nuuf9YEpTRYJst42kYghemDqHIVn1qxNALl3mbweroAx2X6iNnSCey3UvFXPo50apNHpYw2BmzLLOCg9ZPeL5byh6ChY8OI5pY47bZiXfhygs4/YIdUAC8MvqmN4gUyutrWeHIPXPlcX3l+F6AxMBWUh2bg/H7rp2C86hAaxDd85pIeiLMXvSh4HloCUMzNMLMx0saq5SkhAcX8kizxwrrlSuKOp/LRd7gnULh18MakmrnUSj3n2oobXpiFPXzeD/C45oQvg2Gji0t+iU7z52GHYhfybw5adbbxevyvsHF/gi50CMZ1ixecP8bRlx9rA3lsCbTLwq1qcHwnEATqdOhdtwGbieuGkLnVK6b+zIAWbMQSnE+FSTxckLZQX0G9oS3sPKwjkvp9ChVVDepaIPkEbirvcSng+aKKqMrcNANYU="
+  },
+  {
+    "product": "pdfOcr-tesseract4",
+    "licensee": {
+      "company": "Individual",
+      "name": "Hansika Duviduni",
+      "email": "hansikaduviduni@gmail.com"
+    },
+    "key": "b7334faba432a438c146ef307336717e42e5a8469579b5e2be10b62375faf872",
+    "creationDate": "2025-09-30",
+    "expirationDate": "2025-10-31",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "ZsfgNkbqF82AfzLiebJEqryqNVWRCJ9zZE6gHPzP4YmtRkr7/MlUJvUdjFFaNy+UzBETtIjzoMLeysqsXlwlfrUj4oQHDmclXp99omVNhkODmS6qPAn03a64WoJq6V+9SHMaY5HBZVQq0rpovFFXQa02a5Mx2vIh/z1A4JffT1V7PtgRxVaN7uixi40IqQbmX2bSFGNUgCZdZDt2uhXZZAcyDezcVTllgrJeQX+4y93JEzAEHgBbO6LPZ+Fse4AgT1NnYrRqy1XiupzapR/aT18UaVdgYvHTAXNq7jJ++9d8ChWti1XvoiS8RxEddnCr63gMBe2NTe6uhW4pM1B7qOga9Os4L7gAefXKMm3hSWfE42mNwuAhrEX9dhfa0Txpxfm7oYXdFzP8z8FyrTGYYdD+EIjdFkVQnHcV15ADVzg+5CpNC/PtZhoYGJ+BrXqimfldeo+wLFhUNq3jYw+gpbevUhdcdoAG7bW5iRUfvaPcB6S4+QoYLdYyf2ZVQHuVuGrEoWKQmlfxU/Tl9jFzkFXOq7EIWd06JQ1C3almcADdNuTX0z3uvdP8HSJRMcxmFRKCmTYBM4BRuAEXFPf+9oR9kDtH2x3nz0nxCRqqXK3BxlWhh+6v0bqdAHL5DjX68hZiCn+M3xnGDXEHYyKS8lcewyiwpcHTTaWg1D9zUng="
+  },
+  {
+    "product": "pdfOptimizer",
+    "licensee": {
+      "company": "Individual",
+      "name": "Hansika Duviduni",
+      "email": "hansikaduviduni@gmail.com"
+    },
+    "key": "b7334faba432a438c146ef307336717e42e5a8469579b5e2be10b62375faf872",
+    "creationDate": "2025-09-30",
+    "expirationDate": "2025-10-31",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "S+SHaJbvjci+fzMG2Zsa9BmEoNUMD/1qeyvzD8LvTAX9AcS+XeDm3lULJ+MZ3Ga0zoQNyqxaSkXvYpVxJTqqwKjHlVsGCITdIwKVkqfRybvjc9Jg5JII0JcCeiwkZ3MwZcOvmPFf0QV+6Yh65inPkxNSsY82RXtGnUMPSVqi6S/xWLSAvJ5wU9zeNXbqIIJhIfXVhfjfui8NEdp1OKvT7UvIay+WtxMLltaRPt/MepZWMtPjwXaegdrsUVlAyWs0j52v3Wgbq5LwrkJEBa6tshQkt8WFXgnb1Zklz1SxKa4E1cO2cBgMfiE9OoDkTcyZXISS8gAKr4ginsryrbxkFyd/JdPpQsHihd4TaXYiHPJvu1NP+5Fe5F8UQDewEeWxCW03t0ihm2ZHUJt6RpzPrJKghJ3Xv1xQY62y6btv+K6uYF2puL5HCFQ2LU4hEeu+Z8UDgGS+o3OxES+myoRLK8SoVynRTLQJW9dSR+P+7DXfxCgamaLmFjBHO+dFeUA4HVBxehqKLOFvTtkof02wA8TEeiiryqb0NnXq0726pyedE68tID9PpZOvITAehoL4hCiNDnX6Ge24DMAVL711VNqIMWwP0grbkc5hbnSLS3a4sgcHJGBJpkC4Yqi+7ma61BLQ6lXgJzQW+C7lqVNJNSVrrv5G/uwQHWr7M5Y1cww="
+  },
+  {
+    "product": "pdfHtml",
+    "licensee": {
+      "company": "Individual",
+      "name": "Hansika Duviduni",
+      "email": "hansikaduviduni@gmail.com"
+    },
+    "key": "b7334faba432a438c146ef307336717e42e5a8469579b5e2be10b62375faf872",
+    "creationDate": "2025-09-30",
+    "expirationDate": "2025-10-31",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "B0Lnaf++PbGvh+/agxz5SPMRge46nbQoMdpN/XJRQXv1m3fCzouO3RWyJzwGkZQ+czBWwI+H5HQpaVxo3nvNCqyNYaEiBsMY1UzoI0VYBOLmk11wRBT4+SNOfym7Y6nceS3wOeADvWMYUWJ0aldnOIRR3/wZ+gdkpTfZaq+gwFK6/tiGa4sj4wTWA7xB+vK7+keG5b0JRwJayc7d712ERqdlu4mKFCbjKhzdWVZVxzhXbL/bK2lWE0I4NBC99cjVZIAX44hCXXq/Ffh11pY/Hr8RpWkDJ9G/ILrtj+/Pe7EotBe3tvFaGfN67mSAUm8X6LMvFm/oEIg1WkUpEQUgfTPe0T1jx0o/jtB5qn+f++Y3ANBE9NJyD5YR4QwZ6+Ss+2TXxbI1LtuxzCAW5fH3DsKqlLDO43QOPfV/G44p8/786/0kfOqle/ggOpjGnljWqyvKWj8WS5f/MqKYCzZTpeiRDas7TFC3uKqwse72vWlVv8XXrhYuXIRHR3j311t/+w8ZLF2tW2WxTZCVvpYNCwpZy9qqZPYOLWLWzXxQEURuJsMBQEabMOjesyjg8FkenoJPplrz2Emq0aC34ldmhU02Bs26Gvyw5Ba0KD2RnJH9zcQT1G6oAVjiuhjSHoWLu9jvOORuh9YU3wqioimLEEmhgpNccS7MuSiLTp5LhXs="
+  },
+  {
+    "product": "pdfCalligraph",
+    "licensee": {
+      "company": "Individual",
+      "name": "Hansika Duviduni",
+      "email": "hansikaduviduni@gmail.com"
+    },
+    "key": "b7334faba432a438c146ef307336717e42e5a8469579b5e2be10b62375faf872",
+    "creationDate": "2025-09-30",
+    "expirationDate": "2025-10-31",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "dS0X6zFfQPsbz84O1b1fIyr/JQyaCHrom07McSiAYkc2jtAfuqJb3UYWz7WfGNT/j/G+QSbXp6RELHwaYzXpEQ0u19kxWemUSXgWDBf5NhGD3+sYBNXuARKrIHhUvGhlhXwNVZqoN3Lnhlruc5JJ/UjhyODMqKMXUJSbAVqp4vGrwHY1asjQUQGo2QMQoqJxQKeSfOCrbqnZoTdYwa7eSomVPSzWm9IrBEYRTv0yvCOyS3XrwcN6TF8iHPXktly/bBAJkxOhK7eO9ecuW2w3bU54zEsyDoPtL9oXrWFmlRX4BKvMPSohxOhbMUAXoe+8BfMFCyI1xg+Tw/mRP8rFuRPqLjltK0xj8ETL+ZHVwPTCuQtzUSKgGFkX9hLgMK95jFYOphI0wJp8xoqwe6mm/cGrCl5HWX7k48g2Q2KVJc9EeXMdeRyrvab1iuX9+MB7Sz8hZjnw/spkYiF2XogxjKHh1J2m/smIUifsWeeKCbIL9Zns5SPV4KRt8+hXWIc4e/tp3H2+S/TWhZdAqqLzjpB1dPUa+MVPKyyAI+Zb7+97oDLABoEEVs3NJ4w75aHbaMM8toDchueTJasMaKqb+FSFaM5l+fh0bxYLuLQ37s4401GvQ5pZkTX3avkpA8eTuJpjwLXdc/r90/L4yhvmjEO5WY41sdhX9IE9K3/nUY4="
+  }
+]
